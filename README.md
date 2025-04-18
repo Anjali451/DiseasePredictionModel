@@ -25,8 +25,7 @@ Python Libraries:
 
 **Major Results**
 -------------------
-![[Major_Result](https://github.com/user-attachments/assets/115583b7-a1d6-4285-ba0f-f227ed68bfa4)
-](Major_Result.jpg)
+!(Major_Result.jpg)
 
 **Usage**
 -------------------
