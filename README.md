@@ -25,7 +25,7 @@ Python Libraries:
 
 **Major Results**
 -------------------
-!(Major_Result.jpg)
+![Screenshot (55)](Major_Result.png)
 
 **Usage**
 -------------------
