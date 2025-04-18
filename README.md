@@ -3,7 +3,6 @@
 To evaluate healthcare data and produce insightful information that can help both individuals and medical professionals, this project incorporates machine learning algorithms.
 By using historical patient records, symptom patterns, and medical test results, our system can provide early disease predictions and risk assessments.
 The goal of this project is not to replace doctors but to assist in early diagnosis and intervention, reducing healthcare burdens and improving patient outcomes.
-![Screenshot (54)](Voice-Assistant.jpg)
 
 **Features**
 -------------------
@@ -26,7 +25,7 @@ Python Libraries:
 
 **Major Results**
 -------------------
-![Screenshot_29)](Major_Result.jpg)
+![Screenshot_29](Major_Result.jpg)
 
 **Usage**
 -------------------
